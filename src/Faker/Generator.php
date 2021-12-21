@@ -34,6 +34,10 @@ use Psr\Container\ContainerInterface;
  *
  * @method string postcode()
  *
+ * @property string $dessert
+ *
+ * @method string dessert()
+ *
  * @property string $address
  *
  * @method string address()
